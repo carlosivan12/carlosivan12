@@ -15,13 +15,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=carlosivan12.carlosivan12&"  />
-</div>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey 👋 What's up?</h1>
 
 ###
 
